@@ -1,5 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    Soda добавка  = new Soda("малина");
+    System.out.println("Газировка и "+ добавка.GetMyDrinkString());
   }
 }
