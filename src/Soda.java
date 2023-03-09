@@ -11,5 +11,9 @@ public class Soda {
   public String GetMyDrinkString(){
     return добавка;
   }
+
+  public void setДобавка(String добавка) {
+    добавка =добавка;
+  }
 }
 
